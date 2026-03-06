@@ -9,7 +9,7 @@ You control the Human character. Use the keyboard to determine your next move an
 You can toggle the map type in the source code (or config file) using the USE_HEX flag:
 
 Rectangular: Standard grid. Movement is orthogonal (or diagonal depending on implementation).
-<img width="1634" height="1690" alt="image" src="https://github.com/user-attachments/assets/ecc9dd86-c5b7-490c-b1d0-d82eefd0a500" />
+<img width="1490" height="917" alt="image" src="https://github.com/user-attachments/assets/b05f7671-43f1-4891-8b16-8745ec92354a" />
 
 
 Hexagonal: Every cell has 6 neighbors. This changes the movement logic and adjacency rules for breeding and combat.

@@ -1,0 +1,5 @@
+HEX;20;20;4
+Lis;3;7;4;4;16
+BarszczSosnowskiego;10;0;4;12;19
+BarszczSosnowskiego;10;0;3;12;18
+BarszczSosnowskiego;10;0;2;11;18

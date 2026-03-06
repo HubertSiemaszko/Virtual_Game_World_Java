@@ -73,10 +73,6 @@ public class MainFrame extends JFrame {
 
         ));
         add(board, BorderLayout.CENTER);
-        JLabel podpis = new JLabel("Hubert Siemaszko 202413");
-        podpis.setHorizontalAlignment(SwingConstants.CENTER);
-        podpis.setBorder(BorderFactory.createEmptyBorder(5,0,5,0));
-        add(podpis, BorderLayout.EAST);
 
         JPanel buttonPanel = new JPanel(new FlowLayout());
 
@@ -214,3 +210,4 @@ public class MainFrame extends JFrame {
         logArea.setCaretPosition(logArea.getDocument().getLength());
     }
 }
+
